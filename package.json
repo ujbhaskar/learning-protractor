@@ -1,0 +1,13 @@
+{
+  "name": "learning-protractor",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "protractor conf/conf.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
